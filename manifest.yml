@@ -1,0 +1,7 @@
+---
+applications:
+- name: am-hotel-reviews
+  host: am-hotel-reviews
+  domain: mybluemix.net
+  instances: 1
+  memory: 256M
